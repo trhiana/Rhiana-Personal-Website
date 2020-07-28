@@ -30,7 +30,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:trhiana@rocketmail.com',
+      url: 'trhiana@rocketmail.com',
     },
   ],
   phone: '+233 27 954 2742',
