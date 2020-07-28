@@ -8,7 +8,7 @@ export default function Footer() {
         <p>
           I would love to hear from you!
         </p>
-        <form method="post" action="/#">
+        <form name="contact" method="post" action="/#" data-netlify="true">
           <div className="fields">
             <div className="field">
               <label htmlFor="name">Name</label>
