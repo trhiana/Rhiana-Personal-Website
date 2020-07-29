@@ -112,11 +112,11 @@ const IndexPage = () => (
           <p>
             Administrative Assistant, <em>January 2015 - August 2016</em><br></br>
             <ul>
-              <li>Increased customers and profitability by 25% by building user-friendly websites using HTML, CSS, JavaScript, and Bootstrap.</li>
-              <li>Conducted hardware and software maintenance, maintained computer equipment, and provided technical assistance.</li>
+              <li>Answered calls and inquiries made by customers and directed visitors to the right offices.</li>
+              <li>Scheduled meetings for the various offices and provided secretarial services to my fellow employees.</li>
             </ul>
           </p>
-
+          
           {/*Projects and Extracurrilar activities*/}
 
           <h2 className="major">Projects & Extracurriculars</h2>
