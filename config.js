@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Rhiana Latifah | Welcome!', // <title>
-  manifestName: 'SolidState',
+  manifestName: 'Rhiana-Personal-Website',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
