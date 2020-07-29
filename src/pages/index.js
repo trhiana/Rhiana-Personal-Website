@@ -3,8 +3,8 @@ import React from 'react';
 import Layout from '../components/Layout';
 
 import pic1 from '../assets/images/pic01.jpg';
-import pic2 from '../assets/images/pic02.jpg';
-import pic3 from '../assets/images/pic03.jpg';
+// import pic2 from '../assets/images/pic02.jpg';
+// import pic3 from '../assets/images/pic03.jpg';
 import pic4 from '../assets/images/pic04.png';
 import pic5 from '../assets/images/pic05.png';
 import pic6 from '../assets/images/pic06.png';
@@ -34,13 +34,11 @@ const IndexPage = () => (
             <p>
               Hi! I'm Rhiana, a 23-year-old rising junior currently studying towards a Bachelor of Science in 
               Computer Science. I'm a first-generation university student. My passions include technology, youth empowerment, 
-              and music. I am curious and love solving problems
+              and music. I am curious and love solving problems. I am passionate about making a positive impact by using technology
+              to implement sustainable solutions. 
               <br></br>
-
-              {/* I am a first-generation university student studying Computer Science
-              at Ashesi University. I am currently working as a Technical Support Engineer Intern
-              at GAOTek Inc. I am passionate about making an impact by using technology to implement sustainable solutions.  */}
-              Wondering if I might be a good fit for your company? Check out my <strong><a href="https://www.linkedin.com/in/rhianalatifahnakalemba" target="_blank" rel="noreferrer">LinkedIn</a></strong>
+              Wondering if I might be a good fit for your company? Check out 
+              my <strong><a href="https://www.linkedin.com/in/rhianalatifahnakalemba" target="_blank" rel="noreferrer">LinkedIn</a></strong>
             </p>
             <a href="/About/" className="special">
               Learn more
