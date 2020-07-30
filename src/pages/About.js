@@ -72,7 +72,7 @@ const IndexPage = () => (
           <h3>GAOTek Inc., New York, NY, USA</h3>
           
           <p>
-            Technical Support Engineer Intern, <em>June 2020 - Present</em><br></br>
+            Technical Support Engineer Intern, <em>June 2020 - July 2020</em><br></br>
             <ul>
               <li>Researching and supporting the development of technical manuals and marketing content for drones.</li>
               <li>

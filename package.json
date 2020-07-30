@@ -4,7 +4,7 @@
   "description": "Gatsby.js V2 starter template based on Solid State by HTML5 UP",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-solidstate.git"
+    "url": "git+https://github.com/trhiana/Rhiana-Personal-Website"
   },
   "author": {
     "name": "Rhiana Latifah Nakalemba",
@@ -45,7 +45,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-solidstate/issues"
+    "url": "https://github.com/trhiana/Rhiana-Personal-Website/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-solidstate#readme"
+  "homepage": "https://github.com/trhiana/Rhiana-Personal-Website#readme"
 }
