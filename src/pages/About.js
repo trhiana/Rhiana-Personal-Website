@@ -32,7 +32,7 @@ const IndexPage = () => (
           <h2 className="major">Education</h2>
           <h3>Ashesi University</h3>
           <p>
-            <em>September 2018 - May 2018</em><br></br>
+            <em>September 2018 - May 2022</em><br></br>
             <ul>
               <li>
                 MasterCard Foundation Scholarship: full – ride scholarship awarded to brilliant and 
