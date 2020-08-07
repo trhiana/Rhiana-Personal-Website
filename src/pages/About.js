@@ -78,9 +78,9 @@ const IndexPage = () => (
           <p>
             Technical Support Engineer Intern, <em>June 2020 - July 2020</em><br></br>
             <ul>
-              <li>Researching and supporting the development of technical manuals and marketing content for drones.</li>
+              <li>Researched and supported the development of technical manuals and marketing content for drones.</li>
               <li>
-                Creating responses and supporting documentation for various GAOTek and GAO RFID products as needed.</li>
+                Created responses and supporting documentation for various GAOTek and GAO RFID products as needed.</li>
             </ul>
           </p>
 
