@@ -44,7 +44,7 @@ export default function Footer() {
           })}
         </ul>
         <ul className="copyright">
-          <li>&copy; Rhiana Latifah Nakalemba. All rights reserved.</li>
+          <li>Done with &#10084; by Rhiana Latifah Nakalemba. All rights reserved.</li>
           <li>
             Design: <a href="http://html5up.net">HTML5 UP</a>
           </li>
