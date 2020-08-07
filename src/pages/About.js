@@ -162,7 +162,7 @@ const IndexPage = () => (
 
           <h2 className="major">Honors, Achievements & Awards</h2>
           <ul>
-            <li>Microsoft Learn Student Ambassador - Developing technical and career skills whilst menoring students in my local community, <em>August 2020</em> </li>
+            <li>Microsoft Learn Student Ambassador - Developing technical and career skills whilst mentoring students in my local community, <em>August 2020</em> </li>
             <li>Our Girls, Our Future Technology Fellow - Receiving training in software development and other skillsets., <em>June 2020</em></li>
             <li>African Future Leaders Fellow - Received leadership and Entrepreneurial training., <em>August 2019</em></li>
             <li>Grace Hopper Celebration Scholar - Received full funding to attend the Grace Hopper Celebration in Orlando, FL, USA., <em>May 2019</em></li>
