@@ -8,7 +8,7 @@ import pic1 from '../assets/images/pic01.jpg';
 import pic4 from '../assets/images/pic04.png';
 import pic5 from '../assets/images/pic05.png';
 import pic6 from '../assets/images/pic06.png';
-// import pic7 from '../assets/images/pic07.jpg';
+import pic7 from '../assets/images/pic07.png';
 
 import config from '../../config';
 const IndexPage = () => (
@@ -85,6 +85,18 @@ const IndexPage = () => (
                 A single page portfolio website created using HTML, CSS, Bootstrap and hosted using Github Pages.
               </p>
               <a href="https://github.com/trhiana/trhiana.github.io" className="special" target="_blank" rel="noreferrer">
+                Check it out
+              </a>
+            </article>
+            <article>
+              <a href="https://github.com/trhiana/Rhiana-Personal-Website" className="image" target="_blank" rel="noreferrer">
+                <img src={pic7} alt="" />
+              </a>
+              <h3 className="major">Portfolio</h3>
+              <p>
+                I migrated my portfolio website to showcase my education and various experiences while providing a better user experience.
+              </p>
+              <a href="https://github.com/trhiana/Rhiana-Personal-Website" className="special" target="_blank" rel="noreferrer">
                 Check it out
               </a>
             </article>
