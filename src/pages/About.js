@@ -123,14 +123,14 @@ const IndexPage = () => (
           {/*Projects and Extracurrilar activities*/}
 
           <h2 className="major">Projects & Extracurriculars</h2>
-          {/* <h3>Google</h3>
+          <h3>Google</h3>
           <p>
-            Get Ahead EMEA Scholar, <em>June 2020 - Present</em><br></br>
+            Get Ahead EMEA Scholar, <em>June 2020 - August 2020</em><br></br>
             <ul>
-              <li></li>
-              <li></li>
+              <li>Participated in an 8=week virtual program for all selected CS students from all over EMEA</li>
+              <li>Completed technical challenges, YouTube Live trainings, and attended interview workshops.</li>
             </ul>
-          </p> */}
+          </p>
 
           <h3>Berekuso Writing Program, Berekuso, E/R, Ghana</h3>
           <p>
