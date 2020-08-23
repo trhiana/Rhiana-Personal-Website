@@ -42,10 +42,9 @@ const IndexPage = () => (
                 Relevant courses: Computer Programming for CS, Data Structures & Algorithms, Database Systems,
                 Quantitative Methods, Statistics
               </li>
-              {/* <li>
-                Future courses: Discrete Structures & Theory, Computer Organisation & Architecture, Research Methods, 
-                Web Technologies
-              </li> */}
+              <li>
+                Fall 2020 courses: Computer Organisation & Architecture, Discrete Structures & Theory, Web Technologies
+              </li>
             </ul>
           </p>
 
