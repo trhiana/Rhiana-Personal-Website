@@ -127,7 +127,7 @@ const IndexPage = () => (
           <p>
             Get Ahead EMEA Scholar, <em>June 2020 - August 2020</em><br></br>
             <ul>
-              <li>Participated in an 8=week virtual program for all selected CS students from all over EMEA</li>
+              <li>Participated in an 8-week virtual program for all selected CS students from all over EMEA</li>
               <li>Completed technical challenges, YouTube Live trainings, and attended interview workshops.</li>
             </ul>
           </p>
