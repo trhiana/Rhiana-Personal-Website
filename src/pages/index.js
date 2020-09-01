@@ -8,7 +8,7 @@ import pic1 from '../assets/images/pic01.jpg';
 import pic4 from '../assets/images/pic04.png';
 import pic5 from '../assets/images/pic05.png';
 import pic6 from '../assets/images/pic06.png';
-import pic7 from '../assets/images/pic07.jpg';
+import pic7 from '../assets/images/pic07.png';
 
 import config from '../../config';
 const IndexPage = () => (
