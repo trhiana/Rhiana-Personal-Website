@@ -32,8 +32,8 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">A little about me</h2>
             <p>
-              Hi! I'm Rhiana, a 23-year-old rising junior currently studying towards a Bachelor of Science in 
-              Computer Science. I'm a first-generation university student. My passions include technology, youth empowerment, 
+              Hi! I'm Rhiana, a 23-year-old junior currently studying towards a Bachelor of Science in 
+              Computer Science at Ashesi University. I'm a first-generation university student. My passions include technology, youth empowerment, 
               and music. I am curious and love solving problems. I am passionate about making a positive impact by using technology
               to implement sustainable solutions. 
               <br></br>

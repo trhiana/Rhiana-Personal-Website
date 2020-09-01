@@ -11,7 +11,7 @@ const IndexPage = () => (
           <h2 className="major">About</h2>
           <p>
             I grew up in Seguku, Wakiso District, Uganda and now find myself 
-            as a rising junior at <strong><a href="https://www.ashesi.edu.gh">Ashesi University</a></strong> in Ghana, where I soak up nature 
+            as a junior at <strong><a href="https://www.ashesi.edu.gh">Ashesi University</a></strong> in Ghana, where I soak up nature 
             and culture while pursuing a degree in Computer Science as a <strong><a href="https://mastercardfdn.org/all/scholars/">MasterCard 
             Foundation Scholar</a></strong>. 
             My career interests lie at the nexus of software development
