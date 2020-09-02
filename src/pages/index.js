@@ -33,8 +33,8 @@ const IndexPage = () => (
             <h2 className="major">A little about me</h2>
             <p>
               Hi! I'm Rhiana, a 23-year-old junior currently studying towards a Bachelor of Science in 
-              Computer Science at Ashesi University. I'm a first-generation university student. My passions include technology, youth empowerment, 
-              and music. I am curious and love solving problems. I am passionate about making a positive impact by using technology
+              Computer Science degree at Ashesi University. I'm a first-generation university student. My passions include technology, youth empowerment, 
+              and music. I am curious and love using technology to solve problems. I am passionate about making a positive impact by using technology
               to implement sustainable solutions. 
               <br></br>
               Wondering if I might be a good fit for your company? Check out 
