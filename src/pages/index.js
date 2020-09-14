@@ -38,7 +38,7 @@ const IndexPage = () => (
               to implement sustainable solutions. 
               <br></br>
               Wondering if I might be a good fit for your company? Check out 
-              my <strong><a href="https://www.linkedin.com/in/rhianalatifahnakalemba" target="_blank" rel="noreferrer">LinkedIn</a></strong>
+              my <strong><a href="https://www.linkedin.com/in/rhianalatifah" target="_blank" rel="noreferrer">LinkedIn</a></strong>
             </p>
             <a href="/About/" className="special">
               Learn more
