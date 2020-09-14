@@ -19,9 +19,9 @@ const IndexPage = () => (
             empowerment. I am hardworking, eager to learn and easily adapt to different environments. 
             I have over three years working experience in technical support engineering where I 
             accumulated experience in hardware and software maintenance, computer networking, 
-            technical writing and teamwork. Also, I have experience in Python, MySQL, HTML/CSS, 
+            technical writing and teamwork. Also, I have experience in <strong>Python, MySQL, HTML/CSS, 
             JavaScript, React, and am proficient in Microsoft Applications (Word, Excel, PowerPoint 
-            and Outlook). Away from the computer screen, I am an avid reader, a music aficionado and 
+            and Outlook)</strong>. Away from the computer screen, I am an avid reader, a music aficionado and 
             I am learning Spanish. 
             I am seeking opportunities in application development, application support engineering, 
             information technology, software development / software engineering, and technical program/product management.
@@ -75,7 +75,7 @@ const IndexPage = () => (
           <h3>GAOTek Inc., New York, NY, USA</h3>
           
           <p>
-            Technical Support Engineer Intern, <em>June 2020 - July 2020</em><br></br>
+            Technical Support Engineer Intern, Product Pages Team<em>June 2020 - July 2020</em><br></br>
             <ul>
               <li>Researched and supported the development of technical manuals and marketing content for drones.</li>
               <li>
