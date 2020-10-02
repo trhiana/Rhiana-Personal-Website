@@ -123,14 +123,23 @@ const IndexPage = () => (
           {/*Projects and Extracurrilar activities*/}
 
           <h2 className="major">Projects & Extracurriculars</h2>
-          <h3>Microsoft</h3>
+          <h3>Project Naerhida, Web Technologies className</h3>
+          <p>
+            Project Manager, <em>September 2020 - Present</em><br></br>
+            <ul>
+              <li>Leading the development of a website to advertise various student businesses on the Ashesi University campus.</li> 
+              <li>Working as part of an interdisciplinary team to implement development best practices, achieve project milestones and meet deadlines.</li>
+            </ul>
+          </p> 
+
+          {/* <h3>Microsoft</h3>
           <p>
             Learn Student Ambassador, <em>August 2020 - Present</em><br></br>
             <ul>
               <li> </li> 
               <li> </li>
             </ul>
-          </p> 
+          </p>  */}
 
           <h3>Google</h3>
           <p>
