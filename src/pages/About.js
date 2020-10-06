@@ -123,7 +123,7 @@ const IndexPage = () => (
           {/*Projects and Extracurrilar activities*/}
 
           <h2 className="major">Projects & Extracurriculars</h2>
-          <h3>Project Naerhida, Web Technologies className</h3>
+          <h3>Project Naerhida, Web Technologies Project</h3>
           <p>
             Project Manager, <em>September 2020 - Present</em><br></br>
             <ul>
