@@ -20,7 +20,7 @@ const IndexPage = () => (
             I have over three years working experience in technical support engineering where I 
             accumulated experience in hardware and software maintenance, computer networking, 
             technical writing and teamwork. Also, I have experience in <strong>Python, MySQL, HTML/CSS, 
-            JavaScript, React, and am proficient in Microsoft Applications (Word, Excel, PowerPoint 
+            JavaScript, ReactJS</strong>, and am proficient in <strong>Microsoft Applications (Word, Excel, PowerPoint 
             and Outlook)</strong>. Away from the computer screen, I am an avid reader, a music aficionado and 
             I am learning Spanish. 
             I am seeking opportunities in application development, application support engineering, 
@@ -61,11 +61,11 @@ const IndexPage = () => (
 
           {/*Skills and Technologies*/}
           <h2 className="major">Skills</h2>
-          <p>
+          <p> 
             <ul>
-              <li><em>Languages</em>: <strong>Intermediate</strong>: Python. <strong>Beginner</strong>: C++, HTML/CSS, JavaScript(Nodejs), R, React </li>
-              <li><em>Tools</em>: Git, VS Code </li>
-              <li><em>Databases</em>: <strong>Beginner</strong>: MySQL</li>
+              <li><em>Languages</em>: <strong>Intermediate</strong>: Python. <strong>Beginner</strong>: C++, HTML/CSS, JavaScript(Nodejs), R, ReactJS </li>
+              <li><em>Tools</em>: Git, MS Azure, VS Code </li>
+              <li><em>Databases</em>: <strong>Beginner</strong>: MongoDB, MySQL</li>
             </ul>
           </p>
 
@@ -131,6 +131,15 @@ const IndexPage = () => (
               <li>Working as part of an interdisciplinary team to implement development best practices, achieve project milestones and meet deadlines.</li>
             </ul>
           </p> 
+          
+          <h3>Yielding Accomplished African Women</h3>
+          <p>
+            Technology Fellow - Intermediate Software Engineering Track, <em>July 2020 - Present</em>
+            <ul>
+              <li>Successfully completed 200 hours of training using Python and six professional development sessions alongside 400 females across Africa.</li>
+              <li>Currently learning C++ whilst receiving continuous training in software development and professional practice.</li>
+            </ul>
+          </p>
 
           {/* <h3>Microsoft</h3>
           <p>
@@ -150,9 +159,9 @@ const IndexPage = () => (
             </ul>
           </p>
 
-          <h3>Berekuso Writing Program, Berekuso, E/R, Ghana</h3>
+          <h3>Berekuso Writing Program [CURRENTLY ON HOLD] , Berekuso, E/R, Ghana</h3>
           <p>
-            Assistant Lead, <em>February 2020 - Present</em><br></br>
+            Assistant Lead, <em>February 2020 - March 2020</em><br></br>
             <ul>
               <li>Overseeing 16 volunteers tutoring high school students in English language and literature in Berekuso.</li>
               <li>Working with teachers to develop a curriculum, arranging transportation, and arranging tutoring sessions.</li>
@@ -161,7 +170,7 @@ const IndexPage = () => (
 
           <h3>Tech Era</h3>
           <p>
-            Tech Tutor, <em>March 2019 - Present</em><br></br>
+            Tech Tutor, <em>March 2019 - February 2020</em><br></br>
             <ul>
               <li>Tutoring 20+ Junior High School students in the use of Microsoft Word, Excel and PowerPoint.</li>
               <li>Ensuring the students can carry out basic research using the internet.</li>
@@ -179,11 +188,35 @@ const IndexPage = () => (
 
           <h2 className="major">Honors, Achievements & Awards</h2>
           <ul>
+            <li>Capital One Grace Hopper Scholar - Received a scholarship from Capital One to attend the 2020 Virtual Grace Hopper Celebration, <em>September 2020</em></li>
             <li>Microsoft Learn Student Ambassador - Developing technical and career skills whilst mentoring students in my local community, <em>August 2020</em> </li>
-            <li>Our Girls, Our Future Technology Fellow - Receiving training in software development and other skillsets., <em>June 2020</em></li>
             <li>African Future Leaders Fellow - Received leadership and Entrepreneurial training., <em>August 2019</em></li>
-            <li>Grace Hopper Celebration Scholar - Received full funding to attend the Grace Hopper Celebration in Orlando, FL, USA., <em>May 2019</em></li>
+            <li>Grace Hopper Celebration Scholar - Received full funding to attend the 2019 Grace Hopper Celebration in Orlando, FL, USA., <em>May 2019</em></li>
             <li>MasterCard Foundation Scholarship - Received a full-ride scholarship to study at Ashesi University, <em>July 2018</em></li>
+          </ul>
+
+          {/*Online Courses*/}
+
+          <h2 className="major">Online Courses / Supplementals</h2>
+          
+          <h3>Educative.io</h3>
+          <ul>
+            <li>Learn C++: The Complete Course for Beginners. <strong>[Current]</strong></li>
+            <li>Learn Object-Oriented Programming in Python.</li>
+            <li>Data Structures & Algorithms in Python.</li>
+          </ul>
+
+          <h3>Udemy</h3>
+          <ul>
+            <li>The Complete Full Stack JavaScript Course. <strong>[Current]</strong></li>
+            <li>PHP & MySQL - Certification for Beginners.</li>
+            <li>Java Programming: Complete Beginner to Advanced.</li>
+            <li>The Complete Front-End Web Development Course.</li>
+          </ul>
+
+          <h3>Udacity</h3>
+          <ul>
+            <li>AWS Fundamentals.</li>
           </ul>
 
           <section className="features">
