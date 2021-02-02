@@ -216,7 +216,7 @@ const IndexPage = () => (
 
           <h3>Udacity</h3>
           <ul>
-            <li>AWS Fundamentals.</li>
+            <li>AWS Fundamental Course.</li>
           </ul>
 
           <section className="features">
