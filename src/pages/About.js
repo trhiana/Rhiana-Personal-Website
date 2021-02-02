@@ -197,7 +197,7 @@ const IndexPage = () => (
 
           {/*Online Courses*/}
 
-          <h2 className="major">Online Courses / Supplementals</h2>
+          <h2 className="major"> Online Courses / Supplementals</h2>
           
           <h3>Educative.io</h3>
           <ul>
@@ -206,9 +206,14 @@ const IndexPage = () => (
             <li>Data Structures & Algorithms in Python.</li>
           </ul>
 
+          <h3>Microsoft Learn</h3>
+          <ul>
+            <li>Azure Fundamentals. <strong>[Current]</strong></li>
+          </ul>
+
           <h3>Udemy</h3>
           <ul>
-            <li>The Complete Full Stack JavaScript Course. <strong>[Current]</strong></li>
+            <li>The Complete Full Stack JavaScript Course.</li>
             <li>PHP & MySQL - Certification for Beginners.</li>
             <li>Java Programming: Complete Beginner to Advanced.</li>
             <li>The Complete Front-End Web Development Course.</li>
