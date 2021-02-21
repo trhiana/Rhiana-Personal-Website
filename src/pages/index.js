@@ -77,14 +77,14 @@ const IndexPage = () => (
               </a>
             </article>
             <article>
-              <a href="https://github.com/trhiana/trhiana.github.io" className="image" target="_blank" rel="noreferrer">
+              <a href="https://github.com/trhiana/BankApplication" className="image" target="_blank" rel="noreferrer">
                 <img src={pic6} alt="" />
               </a>
-              <h3 className="major">Portfolio Website</h3>
+              <h3 className="major">Bank Application</h3>
               <p>
-                A single page portfolio website created using HTML, CSS, Bootstrap and hosted using Github Pages.
+                A simple bank application developed using Java.
               </p>
-              <a href="https://github.com/trhiana/trhiana.github.io" className="special" target="_blank" rel="noreferrer">
+              <a href="https://github.com/trhiana/BankApplication" className="special" target="_blank" rel="noreferrer">
                 Check it out
               </a>
             </article>
@@ -92,7 +92,7 @@ const IndexPage = () => (
               <a href="https://github.com/trhiana/Rhiana-Personal-Website" className="image" target="_blank" rel="noreferrer">
                 <img src={pic7} alt="" />
               </a>
-              <h3 className="major">Portfolio</h3>
+              <h3 className="major">Portfolio Website</h3>
               <p>
                 I migrated my portfolio website to showcase my education and various experiences while providing a better user experience.
               </p>
