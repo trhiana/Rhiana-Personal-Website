@@ -3,7 +3,7 @@
 # Description 
 This is my personal website made with Gatsby, based on a site template by Anubhav Srivastava. It is hosted using Netlify. 
 
-# BUilt with
+# Built with
 * GatsbyJS 2.x
 
 # Features
