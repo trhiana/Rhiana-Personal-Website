@@ -17,4 +17,10 @@ When you navigate to the [website](https://rhiana.netlify.app), this is what you
 
 ![Index](/src/assets/readme_images/pic01.png)
 
+The landing page also has a short description along with some project examples
+
+![Index](/src/assets/readme_images/pic02.png)
+
+![Index](/src/assets/readme_images/pic03.png)
+
 
