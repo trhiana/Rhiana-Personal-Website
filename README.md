@@ -23,4 +23,8 @@ The landing page also has a short description along with some project examples
 
 ![Index](/src/assets/readme_images/pic03.png)
 
+There is also a contact form to ease communication but the contact information is also provided next to it
+
+![Index](/src/assets/readme_images/pic04.png)
+
 
