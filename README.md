@@ -15,5 +15,6 @@ This is my personal website made with Gatsby, based on a site template by Anubha
 # Description
 When you navigate to the [website](https://rhiana.netlify.app), this is what you will see
 
-![Index](/src/assets/images/pic07.png)
+![Index](/src/assets/readme_images/pic01.png)
+
 
