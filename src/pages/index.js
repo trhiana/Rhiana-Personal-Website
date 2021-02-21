@@ -70,7 +70,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">Hangman</h3>
               <p>
-                A simple game of hangman made using Python
+                A simple game of hangman developed using Python
               </p>
               <a href="https://github.com/trhiana/Hangman" className="special" target="_blank" rel="noreferrer">
                 Check it out
