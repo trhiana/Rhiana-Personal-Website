@@ -54,7 +54,7 @@ const IndexPage = () => (
           <section className="features">
             <article>
               <a href="/#" className="image">
-                <img src={pic4} alt="" />
+                <img src={pic4} alt="GUI Calculator" />
               </a>
               <h3 className="major">GUI Calculator</h3>
               <p>
@@ -66,7 +66,7 @@ const IndexPage = () => (
             </article>
             <article>
               <a href="/#" className="image">
-                <img src={pic5} alt="" />
+                <img src={pic5} alt="Hangman" />
               </a>
               <h3 className="major">Hangman</h3>
               <p>
@@ -78,7 +78,7 @@ const IndexPage = () => (
             </article>
             <article>
               <a href="https://github.com/trhiana/BankApplication" className="image" target="_blank" rel="noreferrer">
-                <img src={pic6} alt="" />
+                <img src={pic6} alt="Bank Application" />
               </a>
               <h3 className="major">Bank Application</h3>
               <p>
@@ -90,7 +90,7 @@ const IndexPage = () => (
             </article>
             <article>
               <a href="https://github.com/trhiana/Rhiana-Personal-Website" className="image" target="_blank" rel="noreferrer">
-                <img src={pic7} alt="" />
+                <img src={pic7} alt="Portfolio Website" />
               </a>
               <h3 className="major">Portfolio Website</h3>
               <p>
