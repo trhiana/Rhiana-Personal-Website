@@ -76,8 +76,8 @@ const IndexPage = () => (
           <h2 className="major">Skills</h2>
           <p> 
             <ul>
-              <li><em>Languages</em>: <strong>Intermediate</strong>: Python. <strong>Beginner</strong>: C++, HTML/CSS, JavaScript(Nodejs), R, ReactJS </li>
-              <li><em>Tools</em>: Git, MS Azure, VS Code </li>
+              <li><em>Languages</em>: <strong>Intermediate</strong>: Python. <strong>Beginner</strong>: Java, HTML/CSS, JavaScript(Nodejs), R, ReactJS </li>
+              <li><em>Tools</em>: Git/GitHub, MS Azure, VS Code </li>
               <li><em>Databases</em>: <strong>Beginner</strong>: MongoDB, MySQL</li>
             </ul>
           </p>
