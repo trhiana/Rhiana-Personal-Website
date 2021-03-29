@@ -206,6 +206,16 @@ const IndexPage = () => (
             <li>Data Structures & Algorithms in Python.</li>
           </ul>
 
+          <h3>LinkedIn Learning</h3>
+          <ul>
+            <li>Azure Fundamentals. <strong>[Current]</strong></li>
+            <li></li>
+            <li></li>
+            <li>GitHub Quick Tips</li>
+            <li>Public Speaking Foundations</li>
+            <li>Creating and Giving Business Presentations</li>
+          </ul>
+
           <h3>Microsoft Learn</h3>
           <ul>
             <li>Azure Fundamentals. <strong>[Current]</strong></li>
