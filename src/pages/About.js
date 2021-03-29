@@ -209,8 +209,9 @@ const IndexPage = () => (
           <h3>LinkedIn Learning</h3>
           <ul>
             <li>DevOps Foundations: Continuous Delivery/Continuous Integration <strong>[Current]</strong></li>
-            <li></li>
-            <li></li>
+            <li>Learning Puppet</li>
+            <li>DevOps Foundations</li>
+            <li>Program Management Foundations</li>
             <li>GitHub Quick Tips</li>
             <li>Public Speaking Foundations</li>
             <li>Creating and Giving Business Presentations</li>
@@ -219,6 +220,7 @@ const IndexPage = () => (
           <h3>Microsoft Learn</h3>
           <ul>
             <li>Azure Fundamentals. <strong>[Current]</strong></li>
+            <li> Azure DevOps <strong>[Current]</strong></li>
           </ul>
 
           <h3>Udemy</h3>
