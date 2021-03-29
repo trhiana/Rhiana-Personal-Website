@@ -32,7 +32,7 @@ const IndexPage = () => (
           <h2 className="major">Education</h2>
           <h3>Ashesi University</h3>
           <p>
-            <em>September 2018 - May 2022</em><br></br>
+            <em>September 2018 - June 2023</em><br></br>
             <ul>
               <li>
                 MasterCard Foundation Scholarship: full – ride scholarship awarded to brilliant and 
@@ -42,8 +42,21 @@ const IndexPage = () => (
                 Relevant courses: Computer Programming for CS, Data Structures & Algorithms, Database Systems,
                 Quantitative Methods, Statistics
               </li>
+              {/* <li>
+                Fall 2021 courses: Computer Organisation & Architecture, Discrete Structures & Theory, Web Technologies
+              </li> */}
+            </ul>
+          </p>
+
+          <h3>American University of Central Asia (AUCA) </h3>
+          <p>
+            <em>January 2021 - May 2021</em><br></br>
+            <ul>
               <li>
-                Fall 2020 courses: Computer Organisation & Architecture, Discrete Structures & Theory, Web Technologies
+                Semester Abroad through the Open Society University Network (OSUN)
+              </li>
+              <li>
+                Relevant courses: Data Protection & Information Security Law
               </li>
             </ul>
           </p>
