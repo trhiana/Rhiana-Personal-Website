@@ -40,7 +40,7 @@ const IndexPage = () => (
               </li>
               <li>
                 Relevant courses: Computer Programming for CS, Data Structures & Algorithms, Database Systems,
-                Quantitative Methods, Statistics
+                Quantitative Methods, Research Methods, Statistics
               </li>
               {/* <li>
                 Fall 2021 courses: Computer Organisation & Architecture, Discrete Structures & Theory, Web Technologies
