@@ -263,15 +263,15 @@ const IndexPage = () => (
 
           <section className="features">
             <article>
-              <a href="https://bit.ly/rhianaresume" className="image" target="_blank" rel="noreferrer">
+              <a href="http://bit.ly/rhiana_cv" className="image" target="_blank" rel="noreferrer">
                 <img src={pic8} alt="" />
               </a>
-              <h3 className="major">Resume</h3>
+              <h3 className="major">Curriculum Vitae</h3>
               <p>
-                Check out my resume
+                Check out my CV
               </p>
-              <a href="https://bit.ly/rhianaresume" className="special" target="_blank" rel="noreferrer">
-                Download
+              <a href="http://bit.ly/rhiana_cv" className="special" target="_blank" rel="noreferrer">
+                Check it out
               </a>
             </article>
           </section>
