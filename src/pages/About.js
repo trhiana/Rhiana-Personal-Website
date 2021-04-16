@@ -87,7 +87,7 @@ const IndexPage = () => (
           <h2 className="major">Work Experience</h2>
           <h3>CSIS Department - Ashesi University, Berekuso, E/R, Ghana</h3>
           <p>
-            Introduction to Computing & Information Systems, <em>February 2021 - Present</em><br></br>
+            Introduction to Computing & Information Systems Tutor, <em>February 2021 - Present</em><br></br>
             <ul>
               <li>Working as part of three - person team to provide support to approximately 75 Freshmen.</li>
               <li>Organising group and individual tutorial sessions to assist students with Python and SQL related coursework and concepts.</li>
