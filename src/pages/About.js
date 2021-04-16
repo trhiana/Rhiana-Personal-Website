@@ -90,7 +90,7 @@ const IndexPage = () => (
             Introduction to Computing & Information Systems Tutor, <em>February 2021 - Present</em><br></br>
             <ul>
               <li>Working as part of three - person team to provide support to approximately 75 Freshmen.</li>
-              <li>Organising group and individual tutorial sessions to assist students with Python and SQL related coursework and concepts.</li>
+              <li>Organising group and individual tutorial sessions to assist students with <strong>Python</strong> and <strong>SQL</strong> related coursework and concepts.</li>
             </ul>
           </p>
 
@@ -108,7 +108,7 @@ const IndexPage = () => (
           <p>
             Programming Tutor, <em>November 2019 - March 2020</em><br></br>
             <ul>
-              <li>Assisted 100+ Freshmen with subject related coursework and discussed difficult concepts in Python programming.</li>
+              <li>Assisted 100+ Freshmen with subject related coursework and discussed difficult concepts in <strong>Python</strong> programming.</li>
               <li>Held individual tutoring sessions to help students improve their programming skills.</li>
             </ul>
           </p>
@@ -117,8 +117,8 @@ const IndexPage = () => (
           <p>
             Systems Unit Intern, <em>November 2019 - March 2020</em><br></br>
             <ul>
-              <li>Improved employee efficiency by 12% by carrying out hardware and software repairs, network and software maintenance 
-                (Microsoft Server) and general technical support.</li>
+              <li>Improved employee efficiency by 12% by carrying out hardware and software repairs, network and software
+maintenance (<strong>Windows Server 2016</strong>, <strong>Windows OS</strong>) and general technical support.</li>
               <li>Raised more awareness of activities at the organisation by updating social media pages especially press conferences.</li>
             </ul>
           </p>
@@ -127,7 +127,7 @@ const IndexPage = () => (
           <p>
             Assistant Computer Technician, <em>January 2017 - August 2018</em><br></br>
             <ul>
-              <li>Increased customers and profitability by 25% by building user-friendly websites using HTML, CSS, JavaScript, and Bootstrap.</li>
+              <li>Increased customers and profitability by 25% by building user-friendly websites using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>Bootstrap</strong>.</li>
               <li>Conducted hardware and software maintenance, maintained computer equipment, and provided technical assistance.</li>
             </ul>
           </p>
@@ -144,12 +144,13 @@ const IndexPage = () => (
           {/*Projects and Extracurrilar activities*/}
 
           <h2 className="major">Projects & Extracurriculars</h2>
-          <h3>Project Naerhida, Web Technologies Project</h3>
+
+          <h3>Microsoft</h3>
           <p>
-            Project Manager, <em>September 2020 - Present</em><br></br>
+            Learn Student Ambassador - Alpha, <em>August 2020 - Present</em><br></br>
             <ul>
-              <li>Leading the development of a website to advertise various student businesses on the Ashesi University campus.</li> 
-              <li>Working as part of an interdisciplinary team to implement development best practices, achieve project milestones and meet deadlines.</li>
+              <li>Exploring cloud computing using <strong>Azure</strong> by completed courses on Microsoft Learn platform, and <strong>DevOps Engineering</strong> by completing courses on LinkedIn Learning.</li> 
+              <li>Represented Microsoft and mentored students in joining and using <strong>Azure</strong> for projects during TreeHacks 2021.</li>
             </ul>
           </p> 
           
@@ -157,19 +158,22 @@ const IndexPage = () => (
           <p>
             Technology Fellow - Intermediate Software Engineering Track, <em>July 2020 - Present</em>
             <ul>
-              <li>Successfully completed 200 hours of training using Python and six professional development sessions alongside 400 females across Africa.</li>
-              <li>Currently learning C++ whilst receiving continuous training in software development and professional practice.</li>
+              <li>Successfully completed 200 hours of training using <strong>Python</strong> and six professional development sessions alongside 400 females across Africa.</li>
+              <li>Currently learning <strong>C++</strong> whilst receiving continuous training in software development and professional practice.</li>
             </ul>
           </p>
 
-          {/* <h3>Microsoft</h3>
+          
+          <h3>Project Naerhida, Web Technologies Project</h3>
           <p>
-            Learn Student Ambassador, <em>August 2020 - Present</em><br></br>
+            Project Manager, <em>September 2020 - November 2021</em><br></br>
             <ul>
-              <li> </li> 
-              <li> </li>
+              <li>Led the development of a website to advertise various student businesses on the Ashesi University campus.</li> 
+              <li>Used <strong>PHP</strong> to create a login page for the website and reviewed code in <strong>HTML</strong> and <strong>MySQL</strong> before deployment
+                  to <strong>GitHub</strong> and <strong>Azure</strong>.</li>
+              <li>Worked as part of an interdisciplinary team to implement development best practices, achieve project milestones and meet deadlines.</li>
             </ul>
-          </p>  */}
+          </p> 
 
           <h3>Google</h3>
           <p>
@@ -210,7 +214,6 @@ const IndexPage = () => (
           <h2 className="major">Honors, Achievements & Awards</h2>
           <ul>
             <li>Capital One Grace Hopper Scholar - Received a scholarship from Capital One to attend the 2020 Virtual Grace Hopper Celebration, <em>September 2020</em></li>
-            <li>Microsoft Learn Student Ambassador - Developing technical and career skills whilst mentoring students in my local community, <em>August 2020</em> </li>
             <li>African Future Leaders Fellow - Received leadership and Entrepreneurial training., <em>August 2019</em></li>
             <li>Grace Hopper Celebration Scholar - Received full funding to attend the 2019 Grace Hopper Celebration in Orlando, FL, USA., <em>May 2019</em></li>
             <li>MasterCard Foundation Scholarship - Received a full-ride scholarship to study at Ashesi University, <em>July 2018</em></li>
