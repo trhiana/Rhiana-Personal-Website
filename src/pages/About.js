@@ -219,6 +219,11 @@ const IndexPage = () => (
           {/*Online Courses*/}
 
           <h2 className="major"> Online Courses / Supplementals</h2>
+
+          <h3>Coursera</h3>
+          <ul>
+            <li>Google IT Support Professional Certificate<strong>[Current]</strong></li>
+          </ul>
           
           <h3>Educative.io</h3>
           <ul>
