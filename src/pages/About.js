@@ -85,10 +85,18 @@ const IndexPage = () => (
           {/*Work Experience*/}
 
           <h2 className="major">Work Experience</h2>
-          <h3>GAOTek Inc., New York, NY, USA</h3>
-          
+          <h3>CSIS Department - Ashesi University, Berekuso, E/R, Ghana</h3>
           <p>
-            Technical Support Engineer Intern - Product Pages Team<em>, June 2020 - July 2020</em><br></br>
+            Introduction to Computing & Information Systems, <em>February 2021 - Present</em><br></br>
+            <ul>
+              <li>Working as part of three - person team to provide support to approximately 75 Freshmen.</li>
+              <li>Organising group and individual tutorial sessions to assist students with Python and SQL related coursework and concepts.</li>
+            </ul>
+          </p>
+
+          <h3>GAOTek Inc., New York, NY, USA</h3>
+          <p>
+            Technical Support Engineer Intern, Product Pages Team<em>, June 2020 - July 2020</em><br></br>
             <ul>
               <li>Researched and supported the development of technical manuals and marketing content for drones.</li>
               <li>
@@ -214,7 +222,6 @@ const IndexPage = () => (
           
           <h3>Educative.io</h3>
           <ul>
-            <li>Learn C++: The Complete Course for Beginners. <strong>[Current]</strong></li>
             <li>Learn Object-Oriented Programming in Python.</li>
             <li>Data Structures & Algorithms in Python.</li>
           </ul>
