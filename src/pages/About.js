@@ -225,13 +225,18 @@ maintenance (<strong>Windows Server 2016</strong>, <strong>Windows OS</strong>) 
 
           <h3>Coursera</h3>
           <ul>
-            <li>Google IT Support Professional Certificate<strong>[Current]</strong></li>
+            <li>Technical Support Fundamentals</li>
           </ul>
           
           <h3>Educative.io</h3>
           <ul>
             <li>Learn Object-Oriented Programming in Python.</li>
             <li>Data Structures & Algorithms in Python.</li>
+          </ul>
+
+          <h3>freeCodeCamp</h3>
+          <ul>
+            <li>Responsive Web Design</li>
           </ul>
 
           <h3>LinkedIn Learning</h3>
